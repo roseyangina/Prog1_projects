@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Blackjack {
     public static void main(String[] args) {
-
+//new comment added change to Github.
         Scanner scanner = new Scanner(System.in);
         P1Random pullrandom = new P1Random();
         //defining variable at the beginning to keep track of the statistics
